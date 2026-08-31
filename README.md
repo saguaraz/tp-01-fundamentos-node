@@ -10,6 +10,7 @@ Este repositorio contiene la solución del TP01. El proyecto genera la ficha té
 2. ** Ejecutar la ficha de videojuego (Ingresar un nombre) Ejemplo:  Sebastian
       PS D:\DiplomaturaProgramacionFullStack\tp-01-fundamentos-node> node index.js Sebastian       
 ====================================
+------------------------------------
         FICHA DE VIDEOJUEGO
 ====================================
 Estudiante: Sebastian
@@ -23,4 +24,3 @@ Plataformas: Android, iOS, Web, Facebook
 Multijugador: Sí
 ====================================
 
-Archivo generado con éxito en: D:\DiplomaturaProgramacionFullStack\tp-01-fundamentos-node\salida\ficha-videojuego.txt
