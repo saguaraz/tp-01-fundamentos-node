@@ -5,12 +5,13 @@ const path = require("node:path");
 const estudiante = process.argv[2] ?? "Estudiante Anónimo";
 
 // 2. Representar los datos del videojuego
+
 const videojuego = {
-  titulo: "Hollow Knight",
-  estudio: "Team Cherry",
-  anio: 2017,
-  plataformas: ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
-  multijugador: false,
+  titulo: "Preguntados",
+  estudio: "Etermax",
+  anio: 2013,
+  plataformas: ["Android", "iOS", "Web", "Facebook"],
+  multijugador: true,
 };
 
 // 3. Transformaciones de datos

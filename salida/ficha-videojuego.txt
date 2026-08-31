@@ -1,0 +1,13 @@
+====================================
+        FICHA DE VIDEOJUEGO
+====================================
+Estudiante: Sebastian
+Versión de Node.js: v24.13.1
+Plataforma del sistema: win32
+------------------------------------
+Título: Preguntados
+Estudio: Etermax
+Año de Lanzamiento: 2013
+Plataformas: Android, iOS, Web, Facebook
+Multijugador: Sí
+====================================
